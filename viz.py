@@ -7,7 +7,7 @@ from statsmodels.stats.proportion import proportions_ztest
 
 
 #Lectura de los datos y carga a la variable data_mk
-data_mk1 = pd.read_csv('C:/Users/Martin/Documents/programacion/proyectos/ab_Marketing_20230905/project/marketing_AB.csv')
+data_mk1 = pd.read_csv('marketing_AB.csv')
 
 
 
