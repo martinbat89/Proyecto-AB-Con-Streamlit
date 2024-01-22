@@ -29,6 +29,10 @@ Siéntete libre de hacer contribuciones o sugerencias para mejorar este proyecto
 
 Este proyecto está bajo la licencia MIT (2023 Martin Batarev). Consulta el archivo LICENSE para obtener más detalles.
 
+## Agradecimientos
+
+Especial agradecimiento a @Ari8897 con quien desarrollamos el proyecto en conjunto.
+
 --------------------------------------------------------------------------------
 
 ## _Si querés conocer mas proyectos te invito a visitar mi [Portafolio Personal](https://martinbat89.github.io/)_
