@@ -23,6 +23,7 @@ SOFTWARE.
 
 ------------------------------------------------------------------------------
 Este proyecto utiliza las siguientes bibliotecas con licencia APACHE 2.0:
+
 - Streamlit: [Ver Licencia APACHE 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 -----------------------------------------------------------------------------
